@@ -1,0 +1,10 @@
+c:\users\sesame\Source\Repos\SD Card Sort\Main\bin\Debug\Main.exe.config
+c:\users\sesame\Source\Repos\SD Card Sort\Main\bin\Debug\Main.exe
+c:\users\sesame\Source\Repos\SD Card Sort\Main\bin\Debug\Main.pdb
+c:\users\sesame\Source\Repos\SD Card Sort\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+c:\users\sesame\Source\Repos\SD Card Sort\Main\obj\Debug\Main.Form1.resources
+c:\users\sesame\Source\Repos\SD Card Sort\Main\obj\Debug\Main.Properties.Resources.resources
+c:\users\sesame\Source\Repos\SD Card Sort\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+c:\users\sesame\Source\Repos\SD Card Sort\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+c:\users\sesame\Source\Repos\SD Card Sort\Main\obj\Debug\Main.exe
+c:\users\sesame\Source\Repos\SD Card Sort\Main\obj\Debug\Main.pdb
